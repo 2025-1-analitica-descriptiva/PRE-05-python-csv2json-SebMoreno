@@ -1,7 +1,6 @@
 .DS_Store
-
+.idea/
 .vscode/
-files/drivers.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
